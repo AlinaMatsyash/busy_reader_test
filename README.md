@@ -1,17 +1,10 @@
 # busy_reader
 
-A new Flutter project.
 
-## Getting Started
+![Screenshot_20230830_210819](https://github.com/AlinaMatsyash/busy_reader_test/assets/40697299/02fce30c-33bc-4da1-bdd1-f1788e53101b)
 
-This project is a starting point for a Flutter application.
+![Screenshot_20230830_210832](https://github.com/AlinaMatsyash/busy_reader_test/assets/40697299/ead3853d-38de-4dda-b87d-330c1a05c5bb)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20230830_210841](https://github.com/AlinaMatsyash/busy_reader_test/assets/40697299/b33ae708-9a2d-448c-a2ad-2f807f10f5d7)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# busy_reader_test
+[Screen_recording_20230830_211430.webm](https://github.com/AlinaMatsyash/busy_reader_test/assets/40697299/53ee7228-7934-41af-96b9-1530b3554b92)
