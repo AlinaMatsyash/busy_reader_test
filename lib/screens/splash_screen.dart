@@ -27,7 +27,7 @@ class _SplashScreenState extends State<SplashScreen> {
   void getData() async {
     BlocProvider.of<BookBloc>(context).add(GetBookEvent());
     Timer(const Duration(seconds: 3),
-        () => context.router.push(const NavigationRoute()));
+        () => context.router.replace(const NavigationRoute()));
   }
 
   @override
